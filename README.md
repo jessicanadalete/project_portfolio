@@ -1,8 +1,8 @@
-#Project Portfolio
+# Project Portfolio
 
 With this portfolio, I want to demonstrate my skills in solving business problems using data science concepts and tools through projects using public data. You will also find my professional experiences, skills, tools, and concepts involving Data Science.
 
-##About me
+## About me
 
 My name is Jéssica, and I am a passionate data scientist. My academic background includes degrees in Science and Technology and Chemical Engineering as well as a postgraduate qualification in Project Management. Over the past five years, I have dedicated my career to the tax consultancy field, assisting companies in securing tax benefits related to Research and Development in Technological Innovation. 
 
